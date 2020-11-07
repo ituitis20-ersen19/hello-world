@@ -1,2 +1,3 @@
 Hello, world!
 What a nice day.
+Now on a new branch.
